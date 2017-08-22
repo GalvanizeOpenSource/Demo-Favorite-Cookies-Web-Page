@@ -17,7 +17,7 @@ body {
   width: 940px;
   margin: 20px auto 0 auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: #00bfcc;
 }
 
 .imageContainer {
@@ -43,7 +43,7 @@ h1 {
 }
 
 p, li {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Dosis', sans-serif;
   font-size: 22px;
   color: #984d26;
 }
